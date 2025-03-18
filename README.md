@@ -1,16 +1,15 @@
-## Hi there 👋
+<h1>Greetings! My name is Clevon, and I am an <a href="www.linkedin.com/in/cbhyl">IT Specialist!</a></h1>
 
-<!--
-**cbhylgz/cbhylgz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>Information Technology Projects:</h2>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- Microsoft Azure
+  -  [Monitoring Network Traffic with Azure VMs](https://github.com/cbhylgz/Network-Monitoring)
+  -  [Setup and Use a VPN in Azure](https://github.com/cbhylgz/Azure_VPN_Setup)
+- Active Directory
+  - [Active Directory: Preparing Infrastructure in Azure](https://github.com/cbhylgz/AD_Preparing_Active_Directory_In_Azure)
+  - [Active Directory: Deploying Active Directory in Azure](https://github.com/cbhylgz/AD_Deploying_Active_Directory)
+  - [Active Directory: Creating Users, Group Policy, and Managing Accounts in Azure](https://github.com/cbhylgz/AD_Creating_Users_Group_Policies_And_Managing_Accounts)
+- osTicket (Help Desk Ticketing System)
+  -  [osTicket: Prerequisites and Installation](https://github.com/cbhylgz/OsTicket_Installation)
+  -  [osTicket: Post Installation Configuration](https://github.com/cbhylgz/OsTicket_Configuration)
+  -  [osTicket: Creating and Working Tickets](https://github.com/cbhylgz/OsTicket_Creating_And_Working_Tickets)
