@@ -3,7 +3,7 @@
 <h2>Information Technology Projects:</h2>
 
 - Microsoft Azure
-  -  [Monitoring Network Traffic with Azure VMs](https://github.com/cbhylgz/Network-Monitoring-Traffic)
+  -  [Monitoring Network Traffic with Azure VMs](https://github.com/cbhylgz/Monitoring-Network-Traffic)
   -  [Setup and Use a VPN in Azure](https://github.com/cbhylgz/Azure-VPN-Setup)
 - Active Directory
   - [Active Directory: Preparing Infrastructure in Azure](https://github.com/cbhylgz/Azure-AD-Preparation)
